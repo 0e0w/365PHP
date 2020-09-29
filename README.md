@@ -6,7 +6,7 @@
 
 本人编程零基础，只略懂一些Python和Golang。因此本项目部分章节可能很基础，请见谅。
 
-关于Java的其他资源，参考此项目：[https://github.com/0e0w/LearnPHP](https://github.com/0e0w/LearnPHP)
+关于PHP的其他资源，参考此项目：[https://github.com/0e0w/LearnPHP](https://github.com/0e0w/LearnPHP)
 
 本项目创建于2020年9月15日，最近的一次更新日期为2020年9月27日。
 
