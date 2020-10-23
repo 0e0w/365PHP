@@ -8,11 +8,11 @@
 
 本项目大量的参考借鉴甚至复制了其他类似项目。感谢这些作者们，感谢phper。
 
-关于Python的其他资源，参考此项目：[https://github.com/0e0w/LearnPHP](https://github.com/0e0w/LearnPHP)
+关于PHP的其他资源，参考此项目：[https://github.com/0e0w/LearnPHP](https://github.com/0e0w/LearnPHP)
+
+尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的发现PHP漏洞。
 
 本项目创建于2020年9月1日，最近的一次更新日期为2020年10月23日。
-
-尽可能的理解PHP，尽可能的去深入挖掘PHP程序漏洞。
 
 项目处于未完成阶段。不定期推倒重来，暂时取消更新的最新说明。
 
