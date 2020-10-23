@@ -20,7 +20,8 @@
 
 本项目暂时计划共九章：
 
-- [第一章：PHP语言基础]()
+- [第一章：PHP语言基础](https://github.com/0e0w/365PHP#%E7%AC%AC%E4%B8%80%E7%AB%A0php%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80)
+- [第二章：PHP语言进阶](https://github.com/0e0w/365PHP#%E7%AC%AC%E4%BA%8C%E7%AB%A0php%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6)
 
 ## 0x02-学习进度
 
